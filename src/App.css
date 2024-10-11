@@ -20,7 +20,7 @@
 }
 
 .top-buttons {
-  top: 130px;
+  top: 100px;
   left: 50%;
   display: flex;
   gap: 100px;
@@ -28,7 +28,7 @@
 }
 
 .bottom-buttons {
-  bottom: 130px;
+  bottom: 100px;
   left: 50%;
   display: flex;
   gap: 100px;
@@ -37,7 +37,7 @@
 
 .left-buttons {
   top: 50%;
-  left: 32rem;
+  left: 28rem;
   display: flex;
   gap: 100px;
   flex-direction: column;
@@ -46,7 +46,7 @@
 
 .right-buttons {
   top: 50%;
-  right: 32rem;
+  right: 28rem;
   display: flex;
   gap: 100px;
   flex-direction: column;
